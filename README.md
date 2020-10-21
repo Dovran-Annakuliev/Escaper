@@ -2,7 +2,7 @@
 
 My implementation of pacman-like game in terminal in java programming language.
 
-# Install (only for Linux or macOS)
+# Install
 Before building the project you need to install maven and jdk.
 
 Run:
