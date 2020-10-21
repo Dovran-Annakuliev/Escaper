@@ -5,7 +5,7 @@ My implementation of pacman-like game in terminal in java programming language.
 # Install
 Before building the project you need to install maven and jdk.
 
-Run:
+Run (for Debian):
 ```git clone --recursive https://github.com/Dovran-Annakuliev/FdF.git && mvn -f ChaseLogic clean install && mvn -f Game clean package```
 
 # Start
