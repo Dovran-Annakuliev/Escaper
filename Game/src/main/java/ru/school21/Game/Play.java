@@ -117,7 +117,7 @@ public class Play {
             gen.printMap(gen.getMap());
             if (gen.getParser().getProfile().equals("development"))
                 gen.printMoves(1);
-            Thread.sleep(400);
+            Thread.sleep(200);
         }
     }
 
